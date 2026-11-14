@@ -44,7 +44,6 @@ L'installation s'effectue en plusieurs étapes :
 5. Intégration des composants dans Workbench.
 6. Configuration des entités et des prefabs nécessaires.
 7. Vérification du fonctionnement à travers les logs serveur.
-Le mod ne nécessite aucun autre mod Workshop comme dépendance.
 4. Un système de sauvegarde persistant
 
 
